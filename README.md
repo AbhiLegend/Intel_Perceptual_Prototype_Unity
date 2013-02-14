@@ -1,6 +1,8 @@
 Intel_Perceptual_Prototype_Unity
 ================================
 
+PROTOTYPE NAME :-CUBEIT
+
 This protype uses gesture as well as Touch attributes to show a User Interface as well as Color changing effect to teach Kids and feel the change
 
 2)It is an interface that will contain Cube game object built in Unity with Intel Perceptual SDK Which uses Support for Touch, Gesture recognition, 2D texture rendering and Webcam capture utilizing 2d text rendering of Intel Perceptual SDK?
